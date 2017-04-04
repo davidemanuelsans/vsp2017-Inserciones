@@ -1,0 +1,18 @@
+INSERT INTO DEPARTAMENTOS
+VALUES
+(14,'informatica',184702),
+(37,'rh',133154),
+(77,'investigacion',164844),
+(15,'contabilidad',114834),
+(16,'logistica',144698),
+(17,'planificacion',170552),
+(18,'supervision',120693),
+(19,'ventas',190273),
+(20,'mantenimiento',156322),
+(21,'acomodados',109969),
+(22,'acomodadisimos',101504),
+(23,'gnoquis',188717),
+(24,'otros',120197),
+(25,'produccion',170347),
+(26,'retail',194080),
+(27,'gerencia',149196);
