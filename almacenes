@@ -1,0 +1,9 @@
+INSERT INTO ALMACENES
+VALUES
+(1,'bilbao',15),
+(2,'madrid',20),
+(3,'barcelona',15),
+(4,'sevilla',17),
+(5,'malaga',18),
+(6,'madrid',21),
+(7,'madrid',28);
